@@ -2,6 +2,7 @@
 	"author": "Eric Pallad",
 	"version": "1.0.0",
 	"description": "Get some more insights into a node.js backend",
+	"keywords": [ "node", "nodejs", "js", "backend", "training" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
